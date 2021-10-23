@@ -1,5 +1,5 @@
-#Resume#
-========
+Resume
+======
 1. Aleksandr Dubrovski
 2. +375445308487, aleksandr.dubrouski@gmail.com
 3. My goal is to becomme a programmer. I want to earn a living by intellectual work in a friendly company. I like to learn something new and self-development.
