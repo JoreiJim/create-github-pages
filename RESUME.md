@@ -6,9 +6,10 @@ Resume
 4. I lerning JS,CSS,HTML. I use Visual Studio Code.
 5. Examples of my code:
 ```
-const isNeutralSoldier = (armor,shild) =>{
+const isNeutralSoldier = (armor,shild) => {
   const result = armor !== 'red' && shild ==='black';
   return result;
+  }
 ```
 6. No work experience. 
 7. I am taking a course: https://olgamardvilko.github.io/
